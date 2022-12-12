@@ -1,3 +1,3 @@
-import { colors } from '@henrique-ui/tokens';
+import { colors } from '@henrique-ui/tokens'
 
-console.log(colors);
+console.log(colors)
