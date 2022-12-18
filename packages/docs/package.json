@@ -1,6 +1,6 @@
 {
-  "name": "@henrique-ui/docs",
-  "version": "1.0.0",
+  "name": "@henriqueholz-ui/docs",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -28,10 +28,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@henrique-ui/eslint-config": "*",
-    "@henrique-ui/react": "*",
-    "@henrique-ui/tokens": "*",
-    "@henrique-ui/ts-config": "*",
+    "@henriqueholz-ui/eslint-config": "*",
+    "@henriqueholz-ui/react": "*",
+    "@henriqueholz-ui/tokens": "*",
+    "@henriqueholz-ui/ts-config": "*",
     "@storybook/storybook-deployer": "^2.8.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

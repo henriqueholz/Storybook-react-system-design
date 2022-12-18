@@ -1,6 +1,6 @@
 {
-  "name": "@henrique-ui/react",
-  "version": "1.0.0",
+  "name": "@henriqueholz-ui/react",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@henrique-ui/tokens": "*",
-    "@henrique-ui/ts-config": "*",
+    "@henriqueholz-ui/tokens": "*",
+    "@henriqueholz-ui/ts-config": "*",
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
     "react": "^18.2.0",

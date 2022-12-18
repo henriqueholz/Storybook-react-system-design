@@ -1,5 +1,5 @@
 {
-  "extends": "@henrique-ui/ts-config/base.json",
+  "extends": "@henriqueholz-ui/ts-config/base.json",
   "include": [
     "src"
   ]
