@@ -1,0 +1,2 @@
+import{A as t}from"./index.e2817000.js";import"./index.77419d1b.js";import"./iframe.7d3ed382.js";import"./index.be751be7.js";import"./jsx-runtime.99569e18.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/henriqueholz.png",alt:"Henrique Holz"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.0e58f145.js.map
